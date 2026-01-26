@@ -28,7 +28,7 @@
 >         - A shell script has to be called from the absolute path.
 
 ### Basic Scripting
-`1) Output to screen using echo`
+`Output to screen using echo`
 - Create the directory `myscripts`:
 
 ```sh
