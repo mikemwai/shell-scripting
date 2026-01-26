@@ -60,3 +60,17 @@
 ```sh
     ./output-screen
 ```
+
+### Troubleshooting
+- If you encounter such an error:
+
+    ```
+        $'\r': command not found
+        syntax error near unexpected token `$'\r''
+    ```
+
+    - Solution:
+
+    ```sh
+        sed -i 's/\r$//' *
+    ```
