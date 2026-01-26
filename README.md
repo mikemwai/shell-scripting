@@ -62,7 +62,7 @@
 ```
 
 ### Troubleshooting
-- If you encounter such an error:
+- If you encounter such an error when running on Windows terminal:
 
     ```
         $'\r': command not found
